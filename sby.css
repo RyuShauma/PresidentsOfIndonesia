@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-color: #282828;
+}
+
+footer {
+    background: #282828;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.bawah {
+    width: 80%;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #181818;
+    color: white;
+    padding: 15px;
+    text-align: right;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.konten h1 {
+    font-weight: bold;
+    color: white;
+    margin-left: 100px;
+}
+
+.konten p {
+    color: white;
+    font-style: italic;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img {
+    float: right;
+    padding-left: 50px;
+}
